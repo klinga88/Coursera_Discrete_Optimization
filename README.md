@@ -1,1 +1,2 @@
-# Coursera_Discrete_Optimization
+# Coursera Discrete Optimization - Assignment 2
+#
